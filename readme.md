@@ -8,4 +8,4 @@
 
 nmap -sV -p- xx.xx.xx.xx
 
-powered by sec!
+powered by moresec.cn sec!
